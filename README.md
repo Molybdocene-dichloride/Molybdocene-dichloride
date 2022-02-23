@@ -1,3 +1,3 @@
 ### Molybdocene dichloride
-Learning: C++, Electrotechnics, Applied Mechanics, Organical chemistry.\
-Interests: Inner Core modding, studying of chemistry, physics etc.
+Learning: C++, Disassembled & Decompiled Minecraft code, Electrotechnics, Applied Mechanics, Organical chemistry.\
+Interests: Reverse Engineering, Inner Core programming, studying of Chemistry, Physics etc.
