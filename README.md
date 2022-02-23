@@ -1,3 +1,3 @@
 ### Molybdocene dichloride
-Learning: C++, Organical chemistry.
-Interests: Minecraft Bedrock Edition (InnerCore) modding, studying chemistry, physics etc.
+Learning: C++, Electrotechnics, Applied Mechanics, Organical chemistry.\
+Interests: Inner Core modding, studying of chemistry, physics etc.
