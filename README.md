@@ -7,3 +7,5 @@ Interests: Reverse&nbsp;Engineering, Inner&nbsp;Core programming, Physical Chemi
 Current activities: restoring or refuse vk account
 
 # <span style="color:red; font-weight: bold;">Русский военный корабль иди нахуй!</span>
+
+Как собрать boost?
