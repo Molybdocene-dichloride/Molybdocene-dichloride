@@ -1,16 +1,16 @@
-## Molybdocene dichloride
+# Molybdocene dichloride
 ## English
 ### About me
 
-Learning: Rust, D, CMake, Functional analysis, Calculus of variations, Lagrangian mechanics etc.
-
-Interests & skills: Reverse&nbsp;Engineering, Inner&nbsp;Core programming, /
+Interests & skills: Open Source, Reverse&nbsp;Engineering, Inner&nbsp;Core programming, /
     Chemistry(Physical Chemistry), /
-    Physics(Lagrangian mechanics, Astrochemistry) etc.
+    Physics(Eletrodynamics, Lagrangian mechanics, Astrochemistry) etc.
+
+Learning: Rust, D, CMake, Functional analysis, Calculus of variations, Lagrangian mechanics etc.
 
 Interests: Quantum mechanics etc.
 
-##Русский
+## Русский
 ### Обо мне
 
 Изучаю:
