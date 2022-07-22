@@ -2,11 +2,11 @@
 ## English
 ### About me
 
-Interests & skills: Open Source, Reverse&nbsp;Engineering, Inner&nbsp;Core programming, 
-    Chemistry(Physical Chemistry), 
-    Physics(Eletrodynamics, Lagrangian mechanics, Astrochemistry) etc.
+Skills: Open Source, Reverse&nbsp;Engineering, Inner&nbsp;Core programming, \
+    Chemistry(Physical Chemistry), \
+    Physics(Electrodynamics, Lagrangian mechanics, Astrochemistry) etc.
 
-Learning: Rust, D, CMake, Functional programming, Functional analysis, Calculus of variations, Lagrangian mechanics etc.
+Learning: Rust, Functional programming, Functional analysis, Calculus of variations, Lagrangian mechanics etc.
 
 Interests: Quantum mechanics etc.
 
