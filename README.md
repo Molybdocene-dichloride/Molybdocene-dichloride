@@ -1,11 +1,10 @@
 ## Molybdocene dichloride
 ### About me
-Learning: C++, Rust
+Learning: Rust, D, CMake, Functional analysis, Calculus of variations, Lagrangian mechanics.
 
-Interests: Reverse&nbsp;Engineering, Inner&nbsp;Core programming, Physical Chemistry, Lagrangian mechanics, Quantum mechanics, Astrophysics, Astrochemistry etc.
+Interests: Reverse&nbsp;Engineering, Inner&nbsp;Core programming, Physical Chemistry, Lagrangian mechanics, Astrochemistry etc.
 
-Current activities: restoring or refuse vk account
+
 
 # <span style="color:red; font-weight: bold;">Русский военный корабль иди нахуй!</span>
 
-Как собрать boost?
