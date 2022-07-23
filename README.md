@@ -3,21 +3,23 @@
 ### About me
 
 Skills: Open Source, Reverse&nbsp;Engineering, Inner&nbsp;Core programming, \
-    Chemistry(Physical Chemistry), \
-    Physics(Electrodynamics, Lagrangian mechanics, Astrochemistry) etc.
+    Chemistry(Physical Chemistry, Organic chemistry), \
+    Physics(Electrodynamics, Astrochemistry) etc.
 
 Learning: Rust, Functional programming, Functional analysis, Calculus of variations, Lagrangian mechanics etc.
 
-Interests: Quantum mechanics etc.
+No and weak skilled interests: Quantum mechanics, Quantum chemistry etc.
 
 ## Русский
 ### Обо мне
 
-Изучаю:
+Умения: Open Source, Reverse&nbsp;Engineering, Inner&nbsp;Core программирование, \
+    Химия(Физическая Химия, органическая Химия), \
+    Физика(Электродинамика, Astrochemistry) etc.
 
-Умения:
+Изучаю: Rust, фукциональное программирование, функциональный анализ, вариационное исчисление, Лагранжева механика etc.
 
-Интересы:
+No and weak skilled интересы: квантовая механика, квантовая Химия etc.
 
 # <span style="color:red; font-weight: bold;">Русский военный корабль иди нахуй!</span>
 
