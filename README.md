@@ -10,6 +10,8 @@ Learning: Functional&nbsp;programming, Functional&nbsp;analysis, Calculus&nbsp;o
 
 Weak skilled interests: Quantum&nbsp;mechanics, Quantum&nbsp;chemistry etc.
 
+pl: IMPACT: GREGTECH EDITION
+
 ## Русский
 ### Обо мне
 
