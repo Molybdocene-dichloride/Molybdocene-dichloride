@@ -10,7 +10,7 @@ Learning: Functional&nbsp;programming, Functional&nbsp;analysis, Calculus&nbsp;o
 
 Weak skilled interests: Quantum&nbsp;mechanics, Quantum&nbsp;chemistry etc.
 
-pl: IMPACT: GREGTECH EDITION
+Plays: IMPACT: GREGTECH EDITION
 
 ## Русский
 ### Обо мне
@@ -22,6 +22,8 @@ pl: IMPACT: GREGTECH EDITION
 Изучаю: функциональное&nbsp;программирование, функциональный&nbsp;анализ, вариационное&nbsp;исчисление, Лагранжева&nbsp;механика etc.
 
 Интересы со слабыми знаниями: квантовая&nbsp;механика, квантовая&nbsp;химия etc.
+
+Plays: IMPACT: GREGTECH EDITION
 
 GitHub - https://github.com/Molybdocene-dichloride
 
